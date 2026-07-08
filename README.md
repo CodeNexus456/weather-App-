@@ -17,4 +17,4 @@ Weather API
 
 Project Screenshot 
 
-![Project Screenshot](weather.png)
+![Project Screenshot](images/weather.png)
